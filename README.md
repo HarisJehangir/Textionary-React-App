@@ -1,2 +1,2 @@
 # Textionary-React-App
-Created with CodeSandbox
+Hosted on AWS Amplify : https://main.d3p8bzqx8tssgo.amplifyapp.com/
