@@ -55,6 +55,10 @@ dt {
   line-height: 1;
 }
 
+dt:hover {
+  color: #1f6f8b;
+}
+
 dt span {
   font-size: 200%;
   font-weight: 900;
@@ -100,4 +104,27 @@ footer {
 
 footer p {
   color: #7f7f7f;
+}
+
+.footer-link {
+  box-shadow: 3px 4px 0 0 #899599;
+  background-color: #e4f9ff;
+  border-radius: 15px;
+  border: 1px solid #d6bcd6;
+  display: inline-block;
+  width: 150px;
+  cursor: pointer;
+  color: #3a8a9e;
+  font-size: 17px;
+  padding: 7px 25px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #e1e2ed;
+}
+.footer-link:hover {
+  background: linear-gradient(to bottom, #eaf6f6 5%, #ededed 100%);
+  background-color: #eaf6f6;
+}
+.footer-link:active {
+  position: relative;
+  top: 1px;
 }
