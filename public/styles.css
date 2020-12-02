@@ -15,6 +15,10 @@ h1 {
   line-height: 1.2;
 }
 
+h1:hover {
+  color: #1f6f8b;
+}
+
 h1 span {
   padding: 5px 15px;
   background: #61b15a;
